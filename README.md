@@ -1,6 +1,6 @@
 # POO-Coursera-Week-4
 Projeto - Semana 4
--- INTRODUÇÃO
+-- INSTRUÇÕES
 
 Crie uma classe chamada Produto que deve possuir um nome, um código e um preço. Sobrescreva os métodos equals() e 
 hashCode() de Object (veja seção sobre esses métodos), de forma a serem considerados iguais instancias de Produto que 
